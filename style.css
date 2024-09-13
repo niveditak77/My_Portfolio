@@ -356,13 +356,7 @@ footer .title::before {
   color:white;
 }
 
-.about .title::after {
-  content: "——";
-  text-overflow: ellipsis;
-  display: -webkit-inline-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-}
+
 
 .about .about-content .left {
   width: 45%;
