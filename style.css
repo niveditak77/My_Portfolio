@@ -179,7 +179,9 @@ footer .title::before {
 }
 
 .logo a:hover .logo-text {
-  color: violet;
+    background: linear-gradient(90deg, purple, violet, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 /* Navbar Menu */
