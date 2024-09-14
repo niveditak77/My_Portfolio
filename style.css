@@ -671,7 +671,7 @@ section {
 }
 
 .skill-card-front {
-  background: linear-gradient(400deg, violet 2%,  #344861 20%, #1e3551); /* Front design */
+  background: linear-gradient(400deg,  #344861 20%, #1e3551);
   /* border: 1px solid violet; */
   display: flex;
   flex-direction: column;
